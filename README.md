@@ -6,7 +6,7 @@
 
 文件后面标注data2，比绍按照6：2：2分配train，val，test，否则表示按照8：1：1分配<br>
 文件后面标注augmented表示经过数据增强，否则表示未经过数据增强<br>
-main file:<br>
+main files:<br>
 1.Pistachio Image Classifier_efficientnet_b0_pretrained-data2.ipynb <br>
 2.Pistachio Image Classifier_efficientnet_b0_pretrained-data2-augmented.ipynb <br>
 3.Pistachio Image Classifier_ResNet_pretrained-data2.ipynb <br>
