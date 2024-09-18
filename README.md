@@ -7,4 +7,4 @@
 文件后面标注data2，比绍按照6：2：2分配train，val，test，否则表示按照8：1：1分配
 文件后面标注augmented表示经过数据增强，否则表示未经过数据增强
 
-Kaggle传送门https://www.kaggle.com/datasets/muratkokludataset/pistachio-image-dataset
+Kaggle竞赛传送门https://www.kaggle.com/datasets/muratkokludataset/pistachio-image-dataset
