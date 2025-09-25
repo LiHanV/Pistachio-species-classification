@@ -14,5 +14,5 @@ main files:<br>
 5.Pistachio Image classifier_ViT-data2.ipynb <br>
 
 
-Kaggle竞赛传送门https://www.kaggle.com/datasets/muratkokludataset/pistachio-image-dataset
+Kaggle竞赛传送门https://www.kaggle.com/datasets/muratkokludataset/pistachio-image-dataset<br>
 Publication：https://www.deanfrancispress.com/index.php/te/article/view/1716
