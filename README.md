@@ -15,3 +15,4 @@ main files:<br>
 
 
 Kaggle竞赛传送门https://www.kaggle.com/datasets/muratkokludataset/pistachio-image-dataset
+Publication：https://www.deanfrancispress.com/index.php/te/article/view/1716
