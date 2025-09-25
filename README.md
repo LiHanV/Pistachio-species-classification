@@ -4,7 +4,7 @@
 模型包括ResNet, EfficientNet, Vision Transformer<br>
 
 
-文件后面标注data2，比绍按照6：2：2分配train，val，test，否则表示按照8：1：1分配<br>
+文件后面标注data2，表示按照6：2：2分配train，val，test，否则表示按照8：1：1分配<br>
 文件后面标注augmented表示经过数据增强，否则表示未经过数据增强<br>
 main files:<br>
 1.Pistachio Image Classifier_efficientnet_b0_pretrained-data2.ipynb <br>
